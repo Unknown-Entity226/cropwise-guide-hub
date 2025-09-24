@@ -105,7 +105,7 @@ const Index = () => {
             <div className="relative container mx-auto px-4 py-20">
               <div className="max-w-3xl">
                 <Badge className="mb-4 bg-accent text-accent-foreground">
-                  Smart India Hackathon 2024
+                  Smart India Hackathon 2025
                 </Badge>
                 <h2 className="text-5xl font-bold text-primary-foreground mb-6">
                   Empowering Farmers with Smart Agricultural Guidance
@@ -282,7 +282,7 @@ const Index = () => {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <p className="text-primary-foreground/80">
-                Smart India Hackathon 2024<br />
+                Smart India Hackathon 2025<br />
                 Agricultural Innovation Team
               </p>
             </div>
